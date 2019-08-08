@@ -1,4 +1,4 @@
-# AndroidBluetoothCommucate
+# BluetoothServerLibrary
 Build Instruction:
 1、Android Studio 3.4.2
 2、Java (JRE) 1.8.x
@@ -66,4 +66,4 @@ blueToothServer.CallStatic ("startServer");
 blueToothServer.CallStatic ("stopServer");
 
 If you can read Chinese, reference article here:
-http://www.moonsun.xyz/2019/08/01/09/663/android%e8%93%9d%e7%89%99%e5%ba%94%e7%94%a8-%e8%bf%9e%e6%8e%a5/
+http://www.moonsun.xyz/2019/08/08/08/695/unity%e6%8f%92%e4%bb%b6%ef%bc%9a%e8%93%9d%e7%89%99server/
